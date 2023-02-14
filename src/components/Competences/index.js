@@ -122,7 +122,7 @@ const Competences = () => {
         <div ref={containerRef}>
           <Slider {...settings}>
             <CompetencesCard>
-              <CompetencesIcon src={Commercial} />
+              <CompetencesIcon src={Commercial} alt='Note sur papier' />
               <CompetencesH2>Domaines d'Intervention</CompetencesH2>
               <CompetencesH3>Assistance Juridique</CompetencesH3>
               <CompetencesP>Conseil - Rédaction d'actes - Démarches et formalités juridiques</CompetencesP>
@@ -133,7 +133,7 @@ const Competences = () => {
             </CompetencesCard>
 
             <CompetencesCard>
-              <CompetencesIcon src={Affaires} />
+              <CompetencesIcon src={Affaires} alt='Serrage de mains, affaires' />
               <CompetencesH2>Droit des Affaires</CompetencesH2>
               <CompetencesH3>Constitution de sociétés civiles et commerciales</CompetencesH3>
               <CompetencesP>Modifications statutaires - Cession de parts sociales - Dissolution - Liquidation</CompetencesP>
@@ -146,7 +146,7 @@ const Competences = () => {
             </CompetencesCard>
 
             <CompetencesCard>
-              <CompetencesIcon src={Famille} />
+              <CompetencesIcon src={Famille} alt='Maison' />
               <CompetencesH2>Droit de la Famille</CompetencesH2>
               <CompetencesP>
                 - <strong>Divorce</strong> à l'amiable ou contentieux
@@ -168,7 +168,7 @@ const Competences = () => {
             </CompetencesCard>
 
             <CompetencesCard>
-              <CompetencesIcon src={Travail} />
+              <CompetencesIcon src={Travail} alt='Personnes qui discutent' />
               <CompetencesH2>Droit du Travail</CompetencesH2>
               <CompetencesP>
                 - Contrat de travail
@@ -185,7 +185,7 @@ const Competences = () => {
             </CompetencesCard>
 
             <CompetencesCard>
-              <CompetencesIcon src={Corporel} />
+              <CompetencesIcon src={Corporel} alt='Blessé' />
               <CompetencesH2>Réparation du Préjudice Corporel</CompetencesH2>
               <CompetencesP>
                 Je développe un nouveau domaine, tenant de ma maturité et d’un <strong>long chemin</strong>: la réparation du préjudice corporel.
@@ -197,7 +197,7 @@ const Competences = () => {
             </CompetencesCard>
 
             <CompetencesCard>
-              <CompetencesIcon src={AutresDomaines} />
+              <CompetencesIcon src={AutresDomaines} alt='Résumé' />
               <CompetencesH2>Autres Domaines d'Intervention</CompetencesH2>
               <CompetencesP>
                 -<strong> Droit Commercial</strong>
