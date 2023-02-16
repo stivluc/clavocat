@@ -125,13 +125,14 @@ export const ContactInfoDetail = styled.p`
   margin-left: 4.9rem;
 
   @media screen and (max-width: 768px) {
-    margin-top: 8px;
+    margin-top: -1rem;
     margin-bottom: 8px;
-    margin-left: 0px;
+    margin-left: 3.2rem;
   }
 
   @media screen and (max-width: 340px) {
     font-size: 0.7rem;
+    margin-left: 2.2rem;
   }
 `;
 
