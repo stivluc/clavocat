@@ -46,7 +46,7 @@ const Contact = () => {
         </ContactColumn1>
         <ContactColumn2>
           <ContactIframe
-            src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Route%20d'Apremont,%2060300%20Aumont-en-Halatte+(Avocate%20Christine%20Lucas)&amp;t=&amp;z=11&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+            src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=1%20Route%20d'Apremont,%2060300%20Aumont-en-Halatte+(Avocate%20Christine%20Lucas)&amp;t=&amp;z=10&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
             width='500'
             height='600'
             allowfullscreen></ContactIframe>
