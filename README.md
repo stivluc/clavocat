@@ -3,4 +3,4 @@
 - Expérience
 - Contact
 
-Dev from scratch by Steven Lucas
+Dev from scratch
